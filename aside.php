@@ -1,6 +1,7 @@
 <ASIDE>
 	
 				<H4>Gestionar Aquí</H4>
+				<p>El Mejor Hotel 2024</p>
 				<UL>
 					<LI><A href="clientes.php" title="Crear nuevo cliente">Crear Cliente</A></LI>
 					<LI><A href="reservas.php" title="Crear nueva reserva">Crear Reserva</A></LI>
